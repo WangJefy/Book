@@ -1,0 +1,3 @@
+在java中，字符串是一个对象，不是字符数组，有java.lang.String类定义，该类提供了多个方法，用于操作字符串。
+除了String类之外，java.lang.StringBuffer是另外一个常用于字符串的类，它具备String类的大部分功能，常用于修改字符串，效率比String要搞
+java.util.StringTokenizer是第三个操作字符串的类，主要用于分解字符串，将字符串分解成多个标记
